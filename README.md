@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @Greentaylor27
-- 👀 I’m interested in web development, video games and miniature painting.
-- 🌱 I’m currently learning Python, JavaScript, C, and APIs.
-- 💞️ I’m looking to collaborate on projects that have room for growth whether that be mentorship, partnership, or guided solo work
-- 📫 How to reach me, you can email me at taylor.green@atlasschool.com
-- 😄 Pronouns: He/Him/They
-- ⚡ Fun fact: I'm 6'3", and I have over 200 miniature in my house
+### 👋 Hi there, I'm Taylor Green (he/they)
 
-<!---
-Greentaylor27/Greentaylor27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a budding full-stack developer with a passion for learning, creating, and collaborating. I'm especially interested in web development, video games, and painting miniatures (over 200 and counting!).
+
+---
+
+### 🛠️ Tech I'm Learning
+- Python, JavaScript, and C
+- RESTful APIs and backend services
+- Frontend frameworks and responsive design
+- Testing, clean code, and maintainable systems
+
+---
+
+### 🚀 What I’m Working On
+- Building a personal music history API using data from Spotify
+- Sharpening my skills with creative side projects and hands-on coding
+- Exploring collaborative projects that offer mentorship and growth
+
+---
+
+### 🤝 Open to Collaborate
+I’m looking for projects where I can contribute, learn, and grow—whether it’s through guided solo work, team partnerships, or mentorship-focused environments.
+
+---
+
+### 📫 Reach Me
+Email: [taylor.green@atlasschool.com](mailto:taylor.green@atlasschool.com)
+
+---
+
+### ⚡ Fun Facts
+- I’m 6'3" but most of my hobbies happen at a desk 😄
+- I paint and collect miniatures—Warhammer, D&D, and more
+
+---
+
+> “Code is like a miniature army—every function has a purpose, and it’s more powerful when everything works in formation.”
+
